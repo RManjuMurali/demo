@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  background-color: pink;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.left{
+  position: absolute;
+  width: 30%;
+  height: 75%;
+}
